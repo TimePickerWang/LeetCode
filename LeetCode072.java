@@ -1,6 +1,6 @@
 package leetCode;
 
-public class LeetCode72 {
+public class LeetCode072 {
 
 	public int minDistance(String word1, String word2) {
 		char[] a = word1.toCharArray();
@@ -16,7 +16,6 @@ public class LeetCode72 {
 
 		for (int i = 1; i <= a.length; i++) {
 			for (int j = 1; j <= b.length; j++) {
-
 				if (a[i - 1] == b[j - 1]) {
 					times[i][j] = times[i - 1][j - 1];
 				} else {
@@ -28,9 +27,9 @@ public class LeetCode72 {
 	}
 
 	public static void main(String[] args) {
-		String word1 = "";
-		String word2 = "";
-
-		System.out.println(new LeetCode72().minDistance(word1, word2));
+		String word1 = "park";
+		String word2 = "speak";
+		
+		System.out.println(new LeetCode072().minDistance(word1, word2));
 	}
 }
