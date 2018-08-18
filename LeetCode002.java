@@ -16,8 +16,8 @@ public class LeetCode002 {
 
 	public static void main(String[] args) {
 		ListNode a1 = new ListNode(9);
-		 ListNode a2 = new ListNode(9);
-		 a1.next = a2;
+		ListNode a2 = new ListNode(9);
+		a1.next = a2;
 
 		ListNode b1 = new ListNode(1);
 
