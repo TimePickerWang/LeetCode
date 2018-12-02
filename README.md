@@ -9,9 +9,9 @@
 015  |中等| [三数之和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode015.java)
 016  |中等| [最接近的三数之和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode016.java)
 018  |中等 | [四数之和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode018.java)
-026  |简单 | [删除排序数组中的重复项](https://github.com/TimePickerWang/LeetCode/blob/master/code/026.java)
-027  |简单 | [移除元素](https://github.com/TimePickerWang/LeetCode/blob/master/code/027.java)
-053  |简单 | [最大子序和](https://github.com/TimePickerWang/LeetCode/blob/master/code/053.java)
+026  |简单 | [删除排序数组中的重复项](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode026.java)
+027  |简单 | [移除元素](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode027.java)
+053  |简单 | [最大子序和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode053.java)
 
 
 ## 二、链表
