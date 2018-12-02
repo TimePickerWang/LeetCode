@@ -37,7 +37,6 @@
 028  |简单 | [实现strStr()](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode028.java)
 
 
-
 ## 四、动态规划
 题号 | 难度 | 代码 
 ---  |---   |--- 
@@ -53,7 +52,15 @@
 020  |简单  | [有效的括号](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode020.java)
 094  |   | 二叉树的中序遍历
 
-## 六、数学
+
+## 六、贪心算法
+题号 | 难度 | 代码 
+---  |---  |--- 
+055  |中等 | [跳跃游戏](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode055.java)
+870  |中等 | [优势洗牌](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode870.java)
+
+
+## 七、数学
 题号 | 难度 | 代码 
 ---  |---   |--- 
 007  | 简单 | [整数反转](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode007.java)
@@ -62,8 +69,3 @@
 013  |简单  | [罗马数字转整数](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode013.java)
 
 
-## 七、贪心算法
-题号 | 难度 | 代码 
----  |---   |--- 
-055  |中等 | [跳跃游戏](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode055.java)
-870  |中等| [优势洗牌](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode870.java)
