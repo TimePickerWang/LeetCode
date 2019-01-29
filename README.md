@@ -12,6 +12,7 @@
 [026](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)  |简单| [删除排序数组中的重复项](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode026.java)
 [027](https://leetcode-cn.com/problems/remove-element/description/)  |简单| [移除元素](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode027.java)
 [031](https://leetcode-cn.com/problems/next-permutation/description/)  |中等| [下一个排列](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode031.java)
+[033](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  |中等| [搜索旋转排序数组](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode033.java)
 [053](https://leetcode-cn.com/problems/maximum-subarray/description/)  |简单| [最大子序和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode053.java)
 
 
