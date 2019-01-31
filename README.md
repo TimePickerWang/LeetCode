@@ -78,3 +78,8 @@
 [112](https://leetcode-cn.com/problems/path-sum/)  | 简单 | [路径总和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode112.java)
 [124](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)  | 困难 | [二叉树中的最大路径和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode124.java)
 [297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)  | 困难 | [二叉树的序列化与反序列化](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode297.java)
+
+## 九、回溯算法
+题号 | 难度 | 代码 
+---  |---   |--- 
+[079](https://leetcode-cn.com/problems/word-search/) | 中等 | [单词搜索](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode079.java)
