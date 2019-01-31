@@ -52,7 +52,6 @@
 题号 | 难度 | 代码 
 ---  |---|--- 
 [020](https://leetcode-cn.com/problems/valid-parentheses/description/)  |简单  | [有效的括号](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode020.java)
-[094](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)  |中等 | [二叉树的中序遍历](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode094.java)
 
 
 ## 六、贪心算法
@@ -75,5 +74,7 @@
 ## 八、树
 题号 | 难度 | 代码 
 ---  |---   |--- 
+[094](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 中等 | [二叉树的中序遍历](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode094.java)
 [112](https://leetcode-cn.com/problems/path-sum/)  | 简单 | [路径总和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode112.java)
 [124](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)  | 困难 | [路径总和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode124.java)
+[297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)  | 困难 | [二叉树的序列化与反序列化](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode297.java)
