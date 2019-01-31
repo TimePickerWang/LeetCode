@@ -76,3 +76,4 @@
 题号 | 难度 | 代码 
 ---  |---   |--- 
 [112](https://leetcode-cn.com/problems/path-sum/)  | 简单 | [路径总和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode112.java)
+[124](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)  | 困难 | [路径总和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode124.java)
