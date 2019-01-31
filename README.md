@@ -76,5 +76,5 @@
 ---  |---   |--- 
 [094](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 中等 | [二叉树的中序遍历](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode094.java)
 [112](https://leetcode-cn.com/problems/path-sum/)  | 简单 | [路径总和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode112.java)
-[124](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)  | 困难 | [路径总和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode124.java)
+[124](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)  | 困难 | [二叉树中的最大路径和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode124.java)
 [297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)  | 困难 | [二叉树的序列化与反序列化](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode297.java)
