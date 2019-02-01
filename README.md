@@ -79,10 +79,10 @@
 [124](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)  | 困难 | [二叉树中的最大路径和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode124.java)
 [297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)  | 困难 | [二叉树的序列化与反序列化](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode297.java)
 
-### 8.1 前缀树（字典树，相关文章：[Implement Trie (Prefix Tree)](https://leetcode.com/articles/implement-trie-prefix-tree/)）
+### 8.1 前缀树（字典树），相关文章：[Implement Trie (Prefix Tree)](https://leetcode.com/articles/implement-trie-prefix-tree/)
 题号 | 难度 | 代码 
 ---  |---   |--- 
-[208](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | 中等 | [二叉树的中序遍历](https://github.com/TimePickerWang/LeetCode/blob/master/code/Trie.java)
+[208](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | 中等 | [实现 Trie (前缀树)](https://github.com/TimePickerWang/LeetCode/blob/master/code/Trie.java)
 
 
 ## 九、回溯算法
