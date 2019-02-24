@@ -2,13 +2,13 @@ package leetCode;
 
 public class LeetCode019 {
 	public static ListNode removeNthFromEnd(ListNode head, int n) {
-		ListNode firstNode = head, secondNode = head;// firstNodeÖ¸ÏòµÄÊÇµ¹ÊıµÚn¸ö½ÚµãµÄÇ°Ò»¸ö½Úµã
+		ListNode firstNode = head, secondNode = head;// firstNodeæŒ‡å‘çš„æ˜¯å€’æ•°ç¬¬nä¸ªèŠ‚ç‚¹çš„å‰ä¸€ä¸ªèŠ‚ç‚¹
 		int i = 1;
 		while (i < n + 1) {
 			if (secondNode.next != null) {
 				secondNode = secondNode.next;
 				i++;
-			} else {// ÒòÎª¸ø¶¨µÄn±£Ö¤ÊÇÓĞĞ§µÄ£¬¸ù¾İÕâµã£ºµ±±éÀúÍêÁ´±í»¹Ã»ÓĞµ½µ¹ÊıµÚk¸ö½ÚµãÊ±£¬Ö±½ÓÉ¾³ıÍ·½Úµã²¢·µ»Ø
+			} else {// å› ä¸ºç»™å®šçš„nä¿è¯æ˜¯æœ‰æ•ˆçš„ï¼Œæ ¹æ®è¿™ç‚¹ï¼šå½“éå†å®Œé“¾è¡¨è¿˜æ²¡æœ‰åˆ°å€’æ•°ç¬¬kä¸ªèŠ‚ç‚¹æ—¶ï¼Œç›´æ¥åˆ é™¤å¤´èŠ‚ç‚¹å¹¶è¿”å›
 				head = head.next;
 				return head;
 			}
@@ -19,22 +19,5 @@ public class LeetCode019 {
 		}
 		firstNode.next = firstNode.next.next;
 		return head;
-	}
-
-	public static void main(String[] args) {
-		ListNode a = new ListNode(1);
-		ListNode b = new ListNode(2);
-		ListNode c = new ListNode(3);
-		ListNode d = new ListNode(4);
-		ListNode e = new ListNode(5);
-		a.next = b;
-		b.next = c;
-		c.next = d;
-		d.next = e;
-		ListNode node = removeNthFromEnd(a, 1);
-		while (node != null) {
-			System.out.print(node.val + "->");
-			node = node.next;
-		}
 	}
 }
