@@ -93,3 +93,7 @@
 [046](https://leetcode-cn.com/problems/permutations/) | 中等 | [全排列](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode046.java)
 [079](https://leetcode-cn.com/problems/word-search/) | 中等 | [单词搜索](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode079.java)
 
+## 十、设计
+题号 | 难度 | 代码 
+---  |---   |--- 
+[146](https://leetcode-cn.com/problems/lru-cache/) | 困难 | [LRU缓存机制](https://github.com/TimePickerWang/LeetCode/blob/master/code/LRUCache.java)
