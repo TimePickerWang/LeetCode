@@ -97,3 +97,4 @@
 题号 | 难度 | 代码 
 ---  |---   |--- 
 [146](https://leetcode-cn.com/problems/lru-cache/) | 困难 | [LRU缓存机制](https://github.com/TimePickerWang/LeetCode/blob/master/code/LRUCache.java)
+[295](https://leetcode-cn.com/problems/find-median-from-data-stream/) | 困难 | [数据流的中位数](https://github.com/TimePickerWang/LeetCode/blob/master/code/MedianFinder.java)
