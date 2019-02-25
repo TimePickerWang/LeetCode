@@ -24,6 +24,7 @@
 [021](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)  |简单| [合并两个有序链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode021.java)
 [023](https://leetcode-cn.com/problems/merge-k-sorted-lists/description/)  |困难| [合并K个排序链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode023.java)
 [024](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/)  |中等| [两两交换链表中的节点](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode024.java)
+[141](https://leetcode-cn.com/problems/linked-list-cycle/)  |简单| [环形链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode141.java)
 
 
 ## 三、字符串
