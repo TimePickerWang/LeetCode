@@ -13,19 +13,4 @@ public class LeetCode002 {
 		}
 		return node;
 	}
-
-	public static void main(String[] args) {
-		ListNode a1 = new ListNode(9);
-		ListNode a2 = new ListNode(9);
-		a1.next = a2;
-
-		ListNode b1 = new ListNode(1);
-
-		ListNode add = new LeetCode002().addTwoNumbers(a1, b1);
-		while (add != null) {
-			System.out.print(add.val + "  ");
-			add = add.next;
-		}
-	}
-
 }
