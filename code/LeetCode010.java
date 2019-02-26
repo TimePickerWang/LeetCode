@@ -32,9 +32,4 @@ public class LeetCode010 {
 		return false;
 	}
 
-	public static void main(String[] args) {
-		String s = "bbbba";
-		String p = ".*a*a";
-		System.out.println(new LeetCode010().isMatch(s, p));
-	}
 }

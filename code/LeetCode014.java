@@ -17,9 +17,4 @@ public class LeetCode014 {
 		}
 	}
 
-	public static void main(String[] args) {
-		String[] strs = { "abab", "aba", "" };
-		// String[] strs = { "aa", "a" };
-		System.out.println(new LeetCode014().longestCommonPrefix(strs));
-	}
 }

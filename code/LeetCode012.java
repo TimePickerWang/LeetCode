@@ -17,8 +17,4 @@ public class LeetCode012 {
 		return sb.toString();
 	}
 
-	public static void main(String[] args) {
-		int num = 1994;
-		System.out.println(new LeetCode012().intToRoman(num));
-	}
 }

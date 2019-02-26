@@ -16,11 +16,4 @@ public class LeetCode007 {
 			return (int) (-1 * result);
 		}
 	}
-
-	public static void main(String[] args) {
-		LeetCode007 l = new LeetCode007();
-		System.out.println(l.reverse(-1563847412));
-		System.out.println(l.reverse(584650));
-		System.out.println(l.reverse(-584650));
-	}
 }

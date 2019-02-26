@@ -17,7 +17,4 @@ public class LeetCode062 {
 		return result[m - 1][n - 1];
 	}
 
-	public static void main(String[] args) {
-		System.out.println(new LeetCode062().uniquePaths(7, 3));
-	}
 }

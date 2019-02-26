@@ -20,9 +20,4 @@ public class LeetCode027 {
 		return nums[0] == val ? 0 : left + 1;
 	}
 
-	public static void main(String[] args) {
-		int[] nums = { 3, 3 };
-		int val = 3;
-		System.out.println(removeElement(nums, val));
-	}
 }

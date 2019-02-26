@@ -22,8 +22,4 @@ public class LeetCode198 {
 		return slove(nums.length - 1, nums);
 	}
 
-	public static void main(String[] args) {
-		int[] a = { 2, 7, 9, 3, 1 };
-		System.out.println(new LeetCode198().rob(a));
-	}
 }

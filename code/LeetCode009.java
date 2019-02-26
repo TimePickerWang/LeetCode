@@ -37,10 +37,4 @@ public class LeetCode009 {
 		return reverseNum == x || reverseNum / 10 == x;
 	}
 
-	public static void main(String[] args) {
-//		int x = 10;
-		int x = 12321;
-		System.out.println(new LeetCode009().isPalindrome(x));
-		System.out.println(new LeetCode009().isPalindromeQueue(x));
-	}
 }

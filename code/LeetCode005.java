@@ -21,9 +21,4 @@ public class LeetCode005 {
 		}
 		return r - l - 1;
 	}
-
-	public static void main(String[] args) {
-		String str = "a";
-		System.out.println(new LeetCode005().longestPalindrome(str));
-	}
 }

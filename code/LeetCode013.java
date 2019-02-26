@@ -25,8 +25,4 @@ public class LeetCode013 {
 		return result;
 	}
 
-	public static void main(String[] args) {
-		String s = "MCMXCIV";
-		System.out.println(new LeetCode013().romanToInt(s));
-	}
 }

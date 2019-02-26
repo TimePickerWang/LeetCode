@@ -27,8 +27,4 @@ public class LeetCode016 {
 		return result;
 	}
 
-	public static void main(String[] args) {
-		int[] nums = { 0, 2, 1, -3 };
-		System.out.println(threeSumClosest(nums, 0));
-	}
 }

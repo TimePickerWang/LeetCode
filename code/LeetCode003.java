@@ -17,10 +17,4 @@ public class LeetCode003 {
 		}
 		return result;
 	}
-
-	public static void main(String[] args) {
-		String str = "abba";
-		// String str = "bbbbb";
-		System.out.println(new LeetCode003().lengthOfLongestSubstring(str));
-	}
 }

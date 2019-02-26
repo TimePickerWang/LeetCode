@@ -34,11 +34,4 @@ public class LeetCode015 {
 		return list;
 	}
 
-	public static void main(String[] args) {
-		int[] nums = { 0, 0, 0 };
-		List<List<Integer>> list = threeSum(nums);
-		for (List<Integer> subList : list) {
-			System.out.println(subList.toString());
-		}
-	}
 }

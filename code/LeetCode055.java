@@ -27,10 +27,4 @@ public class LeetCode055 {
 		return lastPos == 0;
 	}
 
-	public static void main(String[] args) {
-		// int[] nums = { 2, 3, 1, 1, 4 };
-		int[] nums = { 3, 2, 1, 0, 4 };
-		System.out.println(new LeetCode055().canJump(nums));
-		System.out.println(new LeetCode055().canJumpGreedy(nums));
-	}
 }

@@ -24,11 +24,4 @@ public class LeetCode017 {
 		return result;
 	}
 
-	public static void main(String[] args) {
-		String digits = "23";
-		List<String> strList = letterCombinations(digits);
-		for (String string : strList) {
-			System.out.println(string);
-		}
-	}
 }

@@ -40,10 +40,4 @@ public class LeetCode018 {
 		return result;
 	}
 
-	public static void main(String[] args) {
-		// int[] nums = { 1, 0, -1, 0, -2, 2 };
-		int[] nums = { 0, 0, 0, 0 };
-		int target = 0;
-		System.out.println(fourSum(nums, target));
-	}
 }

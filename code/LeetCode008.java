@@ -34,10 +34,4 @@ public class LeetCode008 {
 		}
 		return (int) (flag * res);
 	}
-
-	public static void main(String[] args) {
-		String str1 = "+-2";
-		// String str2 = " -0012a42";
-		System.out.println(new LeetCode008().myAtoi(str1));
-	}
 }

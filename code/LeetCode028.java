@@ -18,9 +18,4 @@ public class LeetCode028 {
 		}
 	}
 
-	public static void main(String[] args) {
-		String haystack = "hello";
-		String needle = "ll";
-		System.out.println(strStr(haystack, needle));
-	}
 }

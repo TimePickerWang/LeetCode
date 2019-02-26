@@ -26,10 +26,4 @@ public class LeetCode072 {
 		return times[a.length][b.length];
 	}
 
-	public static void main(String[] args) {
-		String word1 = "park";
-		String word2 = "speak";
-		
-		System.out.println(new LeetCode072().minDistance(word1, word2));
-	}
 }

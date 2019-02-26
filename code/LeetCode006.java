@@ -18,10 +18,4 @@ public class LeetCode006 {
 		}
 		return sb.toString();
 	}
-
-	public static void main(String[] args) {
-		String s = "PAYPALISHIRING";
-		int numRows = 3;
-		System.out.println(new LeetCode006().convert(s, numRows));
-	}
 }

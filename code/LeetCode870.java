@@ -29,8 +29,4 @@ public class LeetCode870 {
 		return result;
 	}
 
-	public static void main(String[] args) {
-		int A[] = { 12, 24, 8, 32 }, B[] = { 13, 25, 32, 11 };
-		System.out.println(Arrays.toString(advantageCount(A, B)));
-	}
 }

@@ -25,10 +25,4 @@ public class LeetCode004 {
 			return array[middle];
 		}
 	}
-
-	public static void main(String[] args) {
-		int[] nums1 = { 1, 2 };
-		int[] nums2 = { 3, 4 };
-		System.out.println(new LeetCode004().findMedianSortedArrays(nums1, nums2));
-	}
 }

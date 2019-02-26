@@ -23,11 +23,4 @@ public class LeetCode022 {
 		}
 	}
 
-	public static void main(String[] args) {
-		int n = 3;
-		List<String> list = generateParenthesis(n);
-		for (String string : list) {
-			System.out.println(string);
-		}
-	}
 }

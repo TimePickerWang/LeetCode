@@ -26,8 +26,4 @@ public class LeetCode020 {
 		return stack.isEmpty();
 	}
 
-	public static void main(String[] args) {
-		String s = "()[]{}";
-		System.out.println(isValid(s));
-	}
 }
