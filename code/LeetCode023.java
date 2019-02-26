@@ -12,7 +12,7 @@ public class LeetCode023 {
 		return lists.length > 0 ? lists[0] : null;
 	}
 
-	// Á˝¸öÓĐĐňÁ´ąíľÄşĎ˛˘
+	// 两个有序链表的合并
 	public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
 		ListNode head = new ListNode(0), curNode = head;
 		while (l1 != null && l2 != null) {
