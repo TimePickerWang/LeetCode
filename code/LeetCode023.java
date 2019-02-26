@@ -12,7 +12,7 @@ public class LeetCode023 {
 		return lists.length > 0 ? lists[0] : null;
 	}
 
-	// 两个有序链表的合并
+	// 脕藵赂枚脫膼膼艌脕麓膮铆木脛艧膸藳藰
 	public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
 		ListNode head = new ListNode(0), curNode = head;
 		while (l1 != null && l2 != null) {
@@ -31,30 +31,5 @@ public class LeetCode023 {
 			curNode.next = l2;
 		}
 		return head.next;
-	}
-
-	public static void main(String[] args) {
-		ListNode a1 = new ListNode(1);
-		ListNode a2 = new ListNode(4);
-		ListNode a3 = new ListNode(5);
-		a1.next = a2;
-		a2.next = a3;
-
-		ListNode b1 = new ListNode(1);
-		ListNode b2 = new ListNode(3);
-		ListNode b3 = new ListNode(4);
-		b1.next = b2;
-		b2.next = b3;
-
-		ListNode c1 = new ListNode(2);
-		ListNode c2 = new ListNode(6);
-		c1.next = c2;
-
-		ListNode[] lists = { a1, b1, c1 };
-		ListNode head = mergeKLists(lists);
-		while (head != null) {
-			System.out.print(head.val + "->");
-			head = head.next;
-		}
 	}
 }
