@@ -26,6 +26,7 @@
 [024](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/)  |中等| [两两交换链表中的节点](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode024.java)
 [141](https://leetcode-cn.com/problems/linked-list-cycle/)  |简单| [环形链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode141.java)
 [206](https://leetcode-cn.com/problems/reverse-linked-list/)  |简单| [反转链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode206.java)
+[876](https://leetcode-cn.com/problems/middle-of-the-linked-list/)  |简单| [链表的中间结点](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode876.java)
 
 
 ## 三、字符串
