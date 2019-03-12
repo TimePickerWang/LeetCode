@@ -14,6 +14,7 @@
 [031](https://leetcode-cn.com/problems/next-permutation/description/)  |中等| [下一个排列](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode031.java)
 [033](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  |中等| [搜索旋转排序数组](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode033.java)
 [034](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  |中等| [在排序数组中查找元素的第一个和最后一个位置](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode034.java)
+[035](https://leetcode-cn.com/problems/search-insert-position/)  |简单| [搜索插入位置](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode035.java)
 [053](https://leetcode-cn.com/problems/maximum-subarray/description/)  |简单| [最大子序和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode053.java)
 
 
@@ -73,6 +74,7 @@
 [012](https://leetcode-cn.com/problems/integer-to-roman/description/)  |中等| [整数转罗马数字](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode012.java)
 [013](https://leetcode-cn.com/problems/roman-to-integer/description/)  |简单  | [罗马数字转整数](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode013.java)
 [029](https://leetcode-cn.com/problems/divide-two-integers/description/)  |中等  | [两数相除](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode029.java)
+[036](https://leetcode-cn.com/problems/valid-sudoku/)  |中等  | [有效的数独](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode036.java)
 
 
 ## 八、树
