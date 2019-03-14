@@ -42,6 +42,7 @@
 [017](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/)  |中等 | [电话号码的字母组合](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode017.java)
 [022](https://leetcode-cn.com/problems/generate-parentheses/description/)  |中等 | [括号生成](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode022.java)
 [028](https://leetcode-cn.com/problems/implement-strstr/description/)  |简单 | [实现strStr()](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode028.java)
+[038](https://leetcode-cn.com/problems/count-and-say/)  |中等 | [ 报数](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode038.java)
 
 
 ## 四、动态规划
