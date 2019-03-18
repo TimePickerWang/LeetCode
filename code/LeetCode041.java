@@ -26,8 +26,4 @@ public class LeetCode041 {
 		nums[j] = temp;
 	}
 
-	public static void main(String[] args) {
-		int[] nums = { 3, 4, -1, 1 };
-		System.out.println(new LeetCode041().firstMissingPositive(nums));
-	}
 }
