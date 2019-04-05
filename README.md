@@ -78,6 +78,7 @@
 [013](https://leetcode-cn.com/problems/roman-to-integer/description/)  |简单  | [罗马数字转整数](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode013.java)
 [029](https://leetcode-cn.com/problems/divide-two-integers/description/)  |中等  | [两数相除](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode029.java)
 [036](https://leetcode-cn.com/problems/valid-sudoku/)  |中等  | [有效的数独](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode036.java)
+[043](https://leetcode-cn.com/problems/multiply-strings/)  |中等  | [字符串相乘](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode043.java)
 
 
 ## 八、树
