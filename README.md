@@ -50,16 +50,17 @@
 ## 四、动态规划
 题号 | 难度 | 代码 
 ---  |--- |--- 
-[010](https://leetcode-cn.com/problems/regular-expression-matching/description/)   |困难 | [正则表达式匹配](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode010.java)
-[062](https://leetcode-cn.com/problems/unique-paths/description/)   |中等| [不同路径](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode062.java)
-[072](https://leetcode-cn.com/problems/edit-distance/description/)  |困难| [编辑距离](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode072.java)
-[198](https://leetcode-cn.com/problems/house-robber/description/)   |简单| [打家劫舍](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode198.java)
+[010](https://leetcode-cn.com/problems/regular-expression-matching/)   |困难 | [正则表达式匹配](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode010.java)
+[062](https://leetcode-cn.com/problems/unique-paths/)   |中等| [不同路径](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode062.java)
+[072](https://leetcode-cn.com/problems/edit-distance/)  |困难| [编辑距离](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode072.java)
+[198](https://leetcode-cn.com/problems/house-robber/)   |简单| [打家劫舍](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode198.java)
+[322](https://leetcode-cn.com/problems/coin-change/)   |中等| [零钱兑换](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode322.java)
 
 
 ## 五、栈
 题号 | 难度 | 代码 
 ---  |---|--- 
-[020](https://leetcode-cn.com/problems/valid-parentheses/description/)  |简单  | [有效的括号](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode020.java)
+[020](https://leetcode-cn.com/problems/valid-parentheses/)  |简单  | [有效的括号](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode020.java)
 
 
 ## 六、贪心算法
