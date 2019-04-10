@@ -66,8 +66,9 @@
 ## 六、贪心算法
 题号 | 难度 | 代码 
 ---  |---  |--- 
-[055](https://leetcode-cn.com/problems/jump-game/description/)  |中等 | [跳跃游戏](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode055.java)
-[870](https://leetcode-cn.com/problems/advantage-shuffle/description/)  |中等 | [优势洗牌](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode870.java)
+[045](https://leetcode-cn.com/problems/jump-game-ii/)  |困难 | [跳跃游戏 II](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode045.java)
+[055](https://leetcode-cn.com/problems/jump-game/)  |中等 | [跳跃游戏](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode055.java)
+[870](https://leetcode-cn.com/problems/advantage-shuffle/)  |中等 | [优势洗牌](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode870.java)
 
 
 ## 七、数学

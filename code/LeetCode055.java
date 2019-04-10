@@ -1,6 +1,8 @@
 package leetCode;
 
 public class LeetCode055 {
+
+	// 动态规划（自底向上）
 	public boolean canJump(int[] nums) {
 		int numLen = nums.length;
 		boolean[] canJump = new boolean[numLen];
@@ -17,6 +19,7 @@ public class LeetCode055 {
 		return canJump[0] == true;
 	}
 
+	// 贪心算法
 	public boolean canJumpGreedy(int[] nums) {
 		int lastPos = nums.length - 1;
 		for (int i = lastPos - 1; i >= 0; i--) {
