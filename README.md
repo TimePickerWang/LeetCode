@@ -17,6 +17,7 @@
 [035](https://leetcode-cn.com/problems/search-insert-position/)  |简单| [搜索插入位置](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode035.java)
 [041](https://leetcode-cn.com/problems/first-missing-positive/)  |困难| [缺失的第一个正数](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode041.java)
 [042](https://leetcode-cn.com/problems/trapping-rain-water/)  |困难| [接雨水](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode042.java)
+[048](https://leetcode-cn.com/problems/rotate-image/)  |中等| [旋转图像](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode048.java)
 [053](https://leetcode-cn.com/problems/maximum-subarray/description/)  |简单| [最大子序和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode053.java)
 
 
