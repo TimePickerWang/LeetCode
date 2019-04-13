@@ -7,7 +7,7 @@ import java.util.List;
 
 public class LeetCode049 {
 
-	public static List<List<String>> groupAnagrams(String[] strs) {
+	public List<List<String>> groupAnagrams(String[] strs) {
 		List<List<String>> result = new ArrayList<>();
 		if (strs.length > 0) {
 			HashMap<String, List<String>> map = new HashMap<>();

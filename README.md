@@ -88,6 +88,7 @@
 [013](https://leetcode-cn.com/problems/roman-to-integer/)  |简单| [罗马数字转整数](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode013.java)
 [029](https://leetcode-cn.com/problems/divide-two-integers/)  |中等| [两数相除](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode029.java)
 [043](https://leetcode-cn.com/problems/multiply-strings/)  |中等| [字符串相乘](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode043.java)
+[050](https://leetcode-cn.com/problems/powx-n/)  |中等| [Pow(x, n)](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode050.java)
 
 
 ## 九、树
