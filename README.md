@@ -113,6 +113,7 @@
 [039](https://leetcode-cn.com/problems/combination-sum/) |中等| [组合总和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode039.java)
 [040](https://leetcode-cn.com/problems/combination-sum-ii/) |中等| [组合总和 II](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode040.java)
 [046](https://leetcode-cn.com/problems/permutations/) |中等| [全排列](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode046.java)
+[047](https://leetcode-cn.com/problems/permutations-ii/) |中等| [全排列 II](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode047.java)
 [079](https://leetcode-cn.com/problems/word-search/) |中等| [单词搜索](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode079.java)
 
 
