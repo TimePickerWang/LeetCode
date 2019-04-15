@@ -24,11 +24,11 @@
 ## 二、链表
 题号 |难度| 代码 
 ---  |---|--- 
-[002](https://leetcode-cn.com/problems/add-two-numbers/description/)  |中等| [两数相加](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode002.java)
-[019](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/)  |中等| [删除链表的倒数第N个节点](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode019.java)
-[021](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)  |简单| [合并两个有序链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode021.java)
-[023](https://leetcode-cn.com/problems/merge-k-sorted-lists/description/)  |困难| [合并K个排序链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode023.java)
-[024](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/)  |中等| [两两交换链表中的节点](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode024.java)
+[002](https://leetcode-cn.com/problems/add-two-numbers/)  |中等| [两数相加](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode002.java)
+[019](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  |中等| [删除链表的倒数第N个节点](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode019.java)
+[021](https://leetcode-cn.com/problems/merge-two-sorted-lists/)  |简单| [合并两个有序链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode021.java)
+[023](https://leetcode-cn.com/problems/merge-k-sorted-lists/)  |困难| [合并K个排序链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode023.java)
+[024](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)  |中等| [两两交换链表中的节点](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode024.java)
 [141](https://leetcode-cn.com/problems/linked-list-cycle/)  |简单| [环形链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode141.java)
 [206](https://leetcode-cn.com/problems/reverse-linked-list/)  |简单| [反转链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode206.java)
 [876](https://leetcode-cn.com/problems/middle-of-the-linked-list/)  |简单| [链表的中间结点](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode876.java)
@@ -59,6 +59,7 @@
 题号 | 难度 | 代码 
 ---  |---|--- 
 [020](https://leetcode-cn.com/problems/valid-parentheses/)  |简单| [有效的括号](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode020.java)
+[032](https://leetcode-cn.com/problems/longest-valid-parentheses/)  |困难| [最长有效括号](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode032.java)
 
 
 ## 六、动态规划
