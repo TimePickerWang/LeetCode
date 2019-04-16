@@ -37,14 +37,14 @@
 ## 三、字符串
 题号 | 难度 | 代码 
 ---  |---   |--- 
-[003](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)  |中等| [无重复字符的最长子串](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode003.java)
-[005](https://leetcode-cn.com/problems/longest-palindromic-substring/description/)  |中等| [最长回文子串](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode005.java)
-[006](https://leetcode-cn.com/problems/zigzag-conversion/description/)  |中等| [Z 字形变换](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode006.java)
-[008](https://leetcode-cn.com/problems/string-to-integer-atoi/description/)  |中等| [字符串转换整数(atoi)](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode008.java)
-[014](https://leetcode-cn.com/problems/longest-common-prefix/description/)  |简单| [最长公共前缀](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode014.java)
-[017](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/)  |中等| [电话号码的字母组合](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode017.java)
-[022](https://leetcode-cn.com/problems/generate-parentheses/description/)  |中等| [括号生成](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode022.java)
-[028](https://leetcode-cn.com/problems/implement-strstr/description/)  |简单| [实现strStr()](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode028.java)
+[003](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  |中等| [无重复字符的最长子串](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode003.java)
+[005](https://leetcode-cn.com/problems/longest-palindromic-substring/)  |中等| [最长回文子串](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode005.java)
+[006](https://leetcode-cn.com/problems/zigzag-conversion/)  |中等| [Z 字形变换](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode006.java)
+[008](https://leetcode-cn.com/problems/string-to-integer-atoi/)  |中等| [字符串转换整数(atoi)](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode008.java)
+[014](https://leetcode-cn.com/problems/longest-common-prefix/)  |简单| [最长公共前缀](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode014.java)
+[017](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  |中等| [电话号码的字母组合](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode017.java)
+[022](https://leetcode-cn.com/problems/generate-parentheses/)  |中等| [括号生成](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode022.java)
+[028](https://leetcode-cn.com/problems/implement-strstr/)  |简单| [实现strStr()](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode028.java)
 [038](https://leetcode-cn.com/problems/count-and-say/)  |中等| [报数](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode038.java)
 
 
