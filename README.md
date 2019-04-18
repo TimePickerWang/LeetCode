@@ -3,22 +3,22 @@
 ## 一、数组
 题号 |难度| 代码 
 ---  |---|--- 
-[001](https://leetcode-cn.com/problems/two-sum/description)  |简单| [两数之和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode001.java)
-[004](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/)  |简单| [寻找两个有序数组的中位数](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode004.java)
-[011](https://leetcode-cn.com/problems/container-with-most-water/description/)  |中等| [盛最多水的容器](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode011.java)
-[015](https://leetcode-cn.com/problems/3sum/description/)  |中等| [三数之和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode015.java)
-[016](https://leetcode-cn.com/problems/3sum-closest/description/)  |中等| [最接近的三数之和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode016.java)
-[018](https://leetcode-cn.com/problems/4sum/description/)  |中等| [四数之和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode018.java)
-[026](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)  |简单| [删除排序数组中的重复项](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode026.java)
-[027](https://leetcode-cn.com/problems/remove-element/description/)  |简单| [移除元素](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode027.java)
-[031](https://leetcode-cn.com/problems/next-permutation/description/)  |中等| [下一个排列](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode031.java)
+[001](https://leetcode-cn.com/problems/two-sum/)  |简单| [两数之和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode001.java)
+[004](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)  |简单| [寻找两个有序数组的中位数](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode004.java)
+[011](https://leetcode-cn.com/problems/container-with-most-water/)  |中等| [盛最多水的容器](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode011.java)
+[015](https://leetcode-cn.com/problems/3sum/)  |中等| [三数之和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode015.java)
+[016](https://leetcode-cn.com/problems/3sum-closest/)  |中等| [最接近的三数之和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode016.java)
+[018](https://leetcode-cn.com/problems/4sum/)  |中等| [四数之和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode018.java)
+[026](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)  |简单| [删除排序数组中的重复项](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode026.java)
+[027](https://leetcode-cn.com/problems/remove-element/)  |简单| [移除元素](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode027.java)
+[031](https://leetcode-cn.com/problems/next-permutation/)  |中等| [下一个排列](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode031.java)
 [033](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  |中等| [搜索旋转排序数组](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode033.java)
 [034](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  |中等| [在排序数组中查找元素的第一个和最后一个位置](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode034.java)
 [035](https://leetcode-cn.com/problems/search-insert-position/)  |简单| [搜索插入位置](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode035.java)
 [041](https://leetcode-cn.com/problems/first-missing-positive/)  |困难| [缺失的第一个正数](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode041.java)
 [042](https://leetcode-cn.com/problems/trapping-rain-water/)  |困难| [接雨水](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode042.java)
 [048](https://leetcode-cn.com/problems/rotate-image/)  |中等| [旋转图像](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode048.java)
-[053](https://leetcode-cn.com/problems/maximum-subarray/description/)  |简单| [最大子序和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode053.java)
+[053](https://leetcode-cn.com/problems/maximum-subarray/)  |简单| [最大子序和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode053.java)
 
 
 ## 二、链表
@@ -43,8 +43,8 @@
 [008](https://leetcode-cn.com/problems/string-to-integer-atoi/)  |中等| [字符串转换整数(atoi)](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode008.java)
 [014](https://leetcode-cn.com/problems/longest-common-prefix/)  |简单| [最长公共前缀](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode014.java)
 [017](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  |中等| [电话号码的字母组合](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode017.java)
-[022](https://leetcode-cn.com/problems/generate-parentheses/)  |中等| [括号生成](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode022.java)
 [028](https://leetcode-cn.com/problems/implement-strstr/)  |简单| [实现strStr()](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode028.java)
+[030](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)  |困难| [串联所有单词的子串](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode030.java)
 [038](https://leetcode-cn.com/problems/count-and-say/)  |中等| [报数](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode038.java)
 
 
@@ -111,6 +111,7 @@
 ## 十、回溯算法
 题号 | 难度 | 代码 
 ---  |---   |--- 
+[022](https://leetcode-cn.com/problems/generate-parentheses/)  |中等| [括号生成](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode022.java)
 [039](https://leetcode-cn.com/problems/combination-sum/) |中等| [组合总和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode039.java)
 [040](https://leetcode-cn.com/problems/combination-sum-ii/) |中等| [组合总和 II](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode040.java)
 [046](https://leetcode-cn.com/problems/permutations/) |中等| [全排列](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode046.java)
