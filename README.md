@@ -20,6 +20,7 @@
 [048](https://leetcode-cn.com/problems/rotate-image/)  |中等| [旋转图像](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode048.java)
 [053](https://leetcode-cn.com/problems/maximum-subarray/)  |简单| [最大子序和](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode053.java)
 [054](https://leetcode-cn.com/problems/spiral-matrix/)  |困难| [螺旋矩阵](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode054.java)
+[056](https://leetcode-cn.com/problems/merge-intervals/)  |中等| [合并区间](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode056.java)
 
 
 ## 二、链表
