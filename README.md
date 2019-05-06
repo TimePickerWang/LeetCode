@@ -48,6 +48,7 @@
 [028](https://leetcode-cn.com/problems/implement-strstr/)  |简单| [实现strStr()](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode028.java)
 [030](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)  |困难| [串联所有单词的子串](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode030.java)
 [038](https://leetcode-cn.com/problems/count-and-say/)  |中等| [报数](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode038.java)
+[058](https://leetcode-cn.com/problems/length-of-last-word/)  |简单| [最后一个单词的长度](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode058.java)
 
 
 ## 四、哈希表
