@@ -33,6 +33,7 @@
 [021](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |简单| [合并两个有序链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode021.java)
 [023](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |困难| [合并K个排序链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode023.java)
 [024](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) |中等| [两两交换链表中的节点](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode024.java)
+[061](https://leetcode-cn.com/problems/rotate-list/) |中等| [旋转链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode061.java)
 [141](https://leetcode-cn.com/problems/linked-list-cycle/) |简单| [环形链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode141.java)
 [206](https://leetcode-cn.com/problems/reverse-linked-list/) |简单| [反转链表](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode206.java)
 [876](https://leetcode-cn.com/problems/middle-of-the-linked-list/) |简单| [链表的中间结点](https://github.com/TimePickerWang/LeetCode/blob/master/code/LeetCode876.java)
